@@ -1,0 +1,53 @@
+body{
+	font: 15px/1.5 Arial, Helvetica, sans-serif;
+	padding: 0;
+	margin 0;
+}
+header{
+	background: black;
+    position: fixed;
+    width: 100%;
+    margin-top: -10px;
+    margin-left: -8px;
+    height: 80px;
+	border-bottom: #FFB302 5px solid;
+}
+
+header nav{
+	float: right;
+	margin-top: -47px;
+	color: #FFB302;
+}
+
+header ul{
+	margin: 0;
+	padding: 0;
+}
+
+header li{
+	float: left;
+	display: inline;
+	margin-top: -12px;
+	margin-right: 15px;
+	padding: 0 20px 0 20px;
+}
+
+header a{
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 16px;
+	font-weight: bold;
+
+}
+
+.container{
+	width: 100%;
+}
+
+.name{
+	color: #FFB302;
+	margin-top: -8px;
+	margin-left: 25px;
+	font: 20px Garamond;
+}
