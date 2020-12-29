@@ -50,3 +50,12 @@ header .current a{
 	font: 20px Garamond;
 }
 
+#profiles{
+}
+
+#profiles .president_position{
+	position: absolute;
+	bottom: 60%;
+	left: 10%;
+
+}
