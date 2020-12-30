@@ -50,6 +50,25 @@ header .current a{
 	font: 20px Garamond;
 }
 
+.current_news{
+	background: #FFB302;
+	height: 800px;
+	margin-top: -6px;
+}
+
+footer{
+	background: black;
+	margin-top: -15px;
+	height: 100px;
+	color: white;
+	text-align: center;
+
+}
+
+.creator_statement{
+	
+}
+
 #profiles{
 }
 
