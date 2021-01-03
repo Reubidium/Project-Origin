@@ -2,6 +2,7 @@ body{
 	font: 15px/1.5 Arial, Helvetica, sans-serif;
 	padding: 0;
 	margin: 0;
+
 }
 
 header{
@@ -38,7 +39,7 @@ header a{
 	text-transform: uppercase;
 	font-size: 16px;
 	font-weight: bold;
-	
+
 }
 
 header .current a{
@@ -50,35 +51,4 @@ header .current a{
 	margin-top: -8px;
 	margin-left: 25px;
 	font: 20px Garamond;
-	transition: 0.5s;
 }
-
-.current_news{
-	background: #FFB302;
-	height: 1000px;
-	margin: -73px;
-}
-
-.current_news h1{
-	font-family: Oswald;
-	text-align: center;
-	line-height: 2;
-	font-size: 80px;
-}
-
-
-footer{
-	background: black;
-	
-	height: 120px;
-	color: white;
-	text-align: center;
-
-}
-
-.creator_statement{
-	line-height: 8;
-}
-
-
-

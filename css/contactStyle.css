@@ -11,6 +11,7 @@ header{
     width: 100%;
     height: 80px;
 	border-bottom: #FFB302 5px solid;
+	z-index: 12;
 }
 
 header nav{
@@ -57,7 +58,6 @@ header .current a{
 	justify-content: center;
 	align-items: center;
 	min-height: 100vh;
-
 }
 
 .container{
@@ -78,8 +78,7 @@ header .current a{
 	margin: 20px;
 	border-radius: 20px;
 	overflow: hidden;
-	box-shadow: 0 15px 25px rgba(0,0,0,0.2);
-	transition: 0.5s;
+	box-shadow: 0 255px 225px rgba(0,0,0,0.2);
 	
 }
 
@@ -94,10 +93,16 @@ header .current a{
 
 .container .card h2{
 	color: #FFB302;
+	text-decoration: none;
 	text-align: center;
 	font-size: 40px;
 	font-family: Yellowtail;
 	
+}
+
+.container .card a{
+	text-decoration: none;
+	color: #FFB302;
 }
 
 .container .card .longName h2{
@@ -113,7 +118,7 @@ header .current a{
 	color: black;
 	text-align: center;
 	font-size: 25px;
-	font-family: Yellowtail;
+	font-family: Redressed;
 	font-weight: bold;
 	margin-top: 200px;
 	
