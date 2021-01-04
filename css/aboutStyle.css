@@ -52,3 +52,16 @@ header .current a{
 	margin-left: 25px;
 	font: 20px Garamond;
 }
+
+.whatIsOrigin_Title{
+	margin-top: -89px;
+}
+
+.whatIsOrigin_Title h1{
+	font: 100px Roboto Mono;
+	background: black;
+	color: #FFB302;
+	line-height: 2;
+	text-align: center;
+}
+
