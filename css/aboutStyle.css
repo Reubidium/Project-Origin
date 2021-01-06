@@ -56,7 +56,7 @@ header .current a{
 .info{
 	margin-top: -89px;
 	background: black;
-	height: 4000px;
+	height: 8000px;
 
 }
 
@@ -87,9 +87,17 @@ header .current a{
 .info .content p{
 	text-align: center;
 	color: white;
-	font: 40px Raleway;
+	font: 30px Raleway;
 	margin-left: 300px;
 	margin-right: 300px;
+}
+
+.info .content li{
+	color: white;
+	font: 30px Raleway;
+	margin-left: 300px;
+	margin-right: 300px;
+	line-height: 2;
 }
 
 .info .content hr{
