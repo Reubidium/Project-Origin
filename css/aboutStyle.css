@@ -53,15 +53,47 @@ header .current a{
 	font: 20px Garamond;
 }
 
-.whatIsOrigin_Title{
+.info{
 	margin-top: -89px;
+	background: black;
+	height: 4000px;
+
 }
 
-.whatIsOrigin_Title h1{
+.info h1{
 	font: 100px Roboto Mono;
 	background: black;
 	color: #FFB302;
-	line-height: 2;
+	
 	text-align: center;
 }
 
+.info .content .whatIsOrigin_showcase{
+	text-align: center;
+	margin-top: -100px;
+}
+
+.info .content .originGoals_showcase{
+	text-align: center;
+	margin-top: -50px;
+}
+
+.info .content .whyShouldYouJoin_showcase{
+	text-align: center;
+	margin-top: -50px;
+}
+
+
+.info .content p{
+	text-align: center;
+	color: white;
+	font: 40px Raleway;
+	margin-left: 300px;
+	margin-right: 300px;
+}
+
+.info .content hr{
+	color: #FFB302;
+	width: 80%;
+	margin-top: 100px;
+}
